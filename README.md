@@ -1,4 +1,4 @@
-# record-IMPLEMENTATION-OF-HUFFMAN-CODING
+# 11 .record-IMPLEMENTATION-OF-HUFFMAN-CODING
 ## Aim
 To write a Python program using OpenCV to perform morphological Opening and Closing operations on an image.
 
